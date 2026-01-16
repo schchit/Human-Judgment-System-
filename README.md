@@ -12,7 +12,7 @@
   <a href="https://github.com/schchit/Human-Judgment-System">
     <img src="https://img.shields.io/badge/Status-Public%20Proposal-blue" alt="Status">
   </a>
-  <a href="LICENSE">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
     <img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey" alt="License">
   </a>
   <a href="https://github.com/schchit/Human-Judgment-System/issues">
@@ -73,7 +73,6 @@ Human-Judgment-System/
 ├── README.zh-CN.md           # 中文版项目文档
 ├── CONTRIBUTING.md           # Contributing guide (English)
 ├── CONTRIBUTING.zh-CN.md     # 贡献指南（中文版）
-├── LICENSE                   # License
 ├── docs/                     # Documentation directory
 │   ├── README.md            # Documentation index
 │   └── whitepaper/          # Whitepapers
@@ -128,7 +127,7 @@ We welcome all forms of contributions! Please see [CONTRIBUTING.md](CONTRIBUTING
 
 ## 📄 License
 
-This project is licensed under [CC BY-SA 4.0](LICENSE).
+This project is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## 📞 Contact
 
