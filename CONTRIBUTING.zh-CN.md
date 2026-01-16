@@ -35,7 +35,7 @@
 
 ### 4. 参与讨论
 
-在 [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions) 中分享您的想法、提问或回答问题。
+在 [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues) 中分享您的想法、提问或回答问题。
 
 ## 📝 代码规范
 

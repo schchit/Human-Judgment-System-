@@ -35,7 +35,7 @@ Documentation improvements are equally important! You can:
 
 ### 4. Join Discussions
 
-Share your thoughts, ask questions, or answer questions in [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions).
+Share your thoughts, ask questions, or answer questions in [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues).
 
 ## 📝 Code Standards
 

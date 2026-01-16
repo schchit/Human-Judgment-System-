@@ -54,7 +54,7 @@ docs/
 Documentation will be continuously updated as the project evolves. For the latest version, please check:
 
 - [GitHub Releases](https://github.com/schchit/Human-Judgment-System/releases)
-- [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions)
+- [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues)
 
 ## 💡 反馈与建议 / Feedback & Suggestions
 
@@ -62,8 +62,7 @@ Documentation will be continuously updated as the project evolves. For the lates
 
 If you have any suggestions or find issues with the documentation, please:
 
-- 在 [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues) 中报告
-- 在 [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions) 中讨论
+- 在 [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues) 中报告和讨论
 - 直接提交 Pull Request 改进文档
 
 ---

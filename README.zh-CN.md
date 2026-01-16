@@ -15,8 +15,8 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey" alt="License">
   </a>
-  <a href="https://github.com/schchit/Human-Judgment-System/discussions">
-    <img src="https://img.shields.io/badge/Discussions-Welcome-brightgreen" alt="Discussions">
+  <a href="https://github.com/schchit/Human-Judgment-System/issues">
+    <img src="https://img.shields.io/badge/Issues-Welcome-brightgreen" alt="Issues">
   </a>
   <a href="https://github.com/schchit/Human-Judgment-System/stargazers">
     <img src="https://img.shields.io/github/stars/schchit/Human-Judgment-System?style=social" alt="GitHub stars">
@@ -132,8 +132,7 @@ Human-Judgment-System/
 
 ## 📞 联系方式
 
-- 💬 [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions) - 讨论和问答
-- 🐛 [Issue Tracker](https://github.com/schchit/Human-Judgment-System/issues) - 报告问题或建议功能
+- 💬 [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues) - 讨论、问答和问题追踪
 
 ## 🌟 致谢
 

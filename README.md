@@ -15,8 +15,8 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey" alt="License">
   </a>
-  <a href="https://github.com/schchit/Human-Judgment-System/discussions">
-    <img src="https://img.shields.io/badge/Discussions-Welcome-brightgreen" alt="Discussions">
+  <a href="https://github.com/schchit/Human-Judgment-System/issues">
+    <img src="https://img.shields.io/badge/Issues-Welcome-brightgreen" alt="Issues">
   </a>
   <a href="https://github.com/schchit/Human-Judgment-System/stargazers">
     <img src="https://img.shields.io/github/stars/schchit/Human-Judgment-System?style=social" alt="GitHub stars">
@@ -132,8 +132,7 @@ This project is licensed under [CC BY-SA 4.0](LICENSE).
 
 ## 📞 Contact
 
-- 💬 [GitHub Discussions](https://github.com/schchit/Human-Judgment-System/discussions) - Discussions and Q&A
-- 🐛 [Issue Tracker](https://github.com/schchit/Human-Judgment-System/issues) - Report issues or suggest features
+- 💬 [GitHub Issues](https://github.com/schchit/Human-Judgment-System/issues) - Discussions, Q&A, and issue tracking
 
 ## 🌟 Acknowledgments
 
