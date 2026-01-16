@@ -49,8 +49,8 @@ HJS introduces a new infrastructure layer—the **Judgment Layer**—that:
 ### 📚 For Readers
 
 - 📄 **[English Whitepaper (PDF)](docs/whitepaper/en/White%20Paper%20on%20Human%20Judgment%20System%20v1.0%20(English%20Version).pdf)** - Complete conceptual framework
-- 📖 **[Chinese Whitepaper (PDF)](docs/whitepaper/zh-CN/人类判断系统白皮书%20v1.0（中文版）.pdf)** - 中文版本白皮书
-- 🎯 **[Core Principles](#-core-principles)** - What HJS is and isn't
+- 📖 **[Chinese Whitepaper (PDF)](docs/whitepaper/zh-CN/人类判断系统白皮书%20v1.0（中文版）.pdf)** - Chinese version whitepaper
+- 🎯 **[Core Principles](#core-principles)** - What HJS is and isn't
 
 ### 👨‍💻 For Developers
 
