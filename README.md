@@ -32,7 +32,7 @@ HJS introduces a new infrastructure layer—the **Judgment Layer**—that:
 
 ### For Readers
 - 📄 **[English Whitepaper](docs/whitepaper/en/HJS-Whitepaper.md)** - Complete conceptual framework
-- 📖 **[Chinese Whitepaper](docs/whitepaper/zh-CN/HJS-Whitepaper.md)** - 中文版本白皮书
+- 📖 **[Chinese Whitepaper](docs/whitepaper/CN/HJS-Whitepaper.md)** - 中文版本白皮书
 - 🎯 **[Core Principles](#core-principles)** - What HJS is and isn't
 
 ### For Developers
